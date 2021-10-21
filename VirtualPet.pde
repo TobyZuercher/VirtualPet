@@ -6,5 +6,5 @@ void setup() {
 
 
 void draw()  {
-  rect(50, 50, 750, 750);
+  rectangle(50, 50, 750, 750);
 }
